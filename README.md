@@ -17,7 +17,7 @@ My work (and projects that I have been apart of) is listed within the table belo
 |:--- | :--- |
 | [Euler](https://github.com/skirtyman/Euler) | My solutions to the problems on [ProjectEuler.net](https://projecteuler.net/), it also contains code-golfed solutions just for fun. |
 | [WikiCount](https://github.com/skirtyman/WikiCount) * | A quick script to collect and plot all of my edits on various Wikipedia articles. Feel free to use for your own account. |
-| Lox | My implementation of [jLox](https://github.com/skirtyman/jlox) and cLox from the book [Crafting Interpreters](https://craftinginterpreters.com/). |
+| Lox | My implementation of [JLox](https://github.com/skirtyman/jlox) and [CLox](https://github.com/skirtyman/clox) from the book [Crafting Interpreters](https://craftinginterpreters.com/). |
 | [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) | I enjoy editing pages related to algorithms, data structures and other Computer Science focused topics. My contributions can be viewed [here](https://en.wikipedia.org/wiki/Special:Contributions/Ajmullen). |
 
 
