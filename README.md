@@ -11,6 +11,7 @@ My work (and projects that I have been apart of) is listed within the table belo
 | AutoChar * | A Discord bot written in Python providing utility D&D functions such as first-level character generation, user submitted backstories and a rule-book lookup. |
 | [Vorpal Dice](https://github.com/VorpalBot/Dice-Engine) | A CLI for processing dice commands and rolls in a format compativle with D&D 5e. |
 | [Vorpal](https://github.com/VorpalBot) | A Dicord Bot that enables users to play single-player D&D 5e using the ruleset given within the SRD. |
+| [LLVM](https://github.com/llvm/llvm-project) | Worked primarily on BOLT for AArch64 targets. Note all work between 29/6/26-29/6/27 was done on my placement and is therefore attributed Arm Ltd. |  
 
 ## Misc
 | Name | Description | 
