@@ -9,8 +9,8 @@ My work (and projects that I have been apart of) is listed within the table belo
 |:--- | :--- |
 | [2B NOR !2B](https://github.com/skirtyman/2BNOR-2B) * | A learning tool for GCSE and A-level Computer Science students to explore and practice their knowledge of logic gates and Boolean algebra according to the AQA specification. |
 | AutoChar * | A Discord bot written in Python providing utility D&D functions such as first-level character generation, user submitted backstories and a rule-book lookup. |
-| [Vorpal Dice](https://github.com/VorpalBot/Dice-Engine) * | A CLI for processing dice commands and rolls in a format compativle with D&D 5e. |
-| [Vorpal](https://github.com/VorpalBot) * | A Dicord Bot that enables users to play single-player D&D 5e using the ruleset given within the SRD. |
+| [Vorpal Dice](https://github.com/VorpalBot/Dice-Engine) * | A CLI for processing dice commands and rolls in a format compatible with D&D 5e. |
+| [Vorpal](https://github.com/VorpalBot) * | A Dicord bot that enables users to play single-player D&D 5e using the ruleset given within the SRD. |
 | [LLVM](https://github.com/llvm/llvm-project) | Worked primarily on BOLT for AArch64 targets. Note all work between 29/6/26-29/6/27 was done on my placement and is therefore attributed Arm Ltd. |  
 | [Arm Learning Paths](https://github.com/andreasmullen/arm-learning-paths) | Contributing to Arm Learning paths discussing applying BOLT / LLVM to Arm products.  Note all work between 29/6/26-29/6/27 was done on my placement and is therefore attributed Arm Ltd. |
 
